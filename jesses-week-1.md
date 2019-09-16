@@ -1,6 +1,12 @@
-# What I learned in week-1
+# What I learned in Week-1
 
 ---
+
+During Week-1 many the topics below were covered. Started off in Week-0 with working in the computers terminal to add delete and edit folders or files. Git/GitHub is cloud based service to save and edit work publicly or privately. Cloning, forking and creating new repositories is made possible when using GitHub service and Git inside the computers text terminal. 
+
+For further explanation on these terms, see <a href="https://github.com/Mr-Jess/what-i-learned-in-week-0">what-i-learned-in-week-0!</a>
+
+
 
 ## HTML
 
@@ -37,13 +43,13 @@ Formatting elements were designed to **display special types of text**:
 
 `HTML` **colors** are specified using predefined color names, or RGB, HEX, HSL, RGBA, HSLA values.
 
-`HTML` **links** are hyperlinks. You can click on a link and jump to another document. When you move the mouse over a link, the mouse arrow will turn into a little hand.
-
 `HTML` **Images** can improve the design and the appearance of a web page. Here is an example in `HTML`: `<img src="pic_trulli.jpg" alt="Italian Trulli">`. Inside the first quotes is where your link goes. Inside the second quotes is the images description.
 
-### The Adventure of Link
+### The Adventures of Link
 
-While in class, using HTML we created multiple HTML web links that told a creative story or learning tool. 
+While in class, using `HTML` we created multiple `HTML` web links that told a creative story or learning tool.
+
+`HTML` **links** are hyperlinks. You can click on a link and jump to another document. When you move the mouse over a link, the mouse arrow will turn into a little hand.
 
 ---
 

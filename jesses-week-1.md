@@ -55,7 +55,7 @@ While in class, using `HTML` we created multiple `HTML` web links that told a cr
 
 ## Flowcharts
 
-A flowchart is a type of diagram that represents a workflow or process. A flowchart can also be defined as a diagrammatic representation of an algorithm, a step-by-step approach to solving a task. The flowchart shows the steps as boxes of various kinds, and their order by connecting the boxes with arrows.
+A `flowchart` is a type of diagram that represents a workflow or process. A flowchart can also be defined as a diagrammatic representation of an *algorithm*, a step-by-step approach to solving a task. The flowchart shows the steps as boxes of various kinds, and their order by connecting the boxes with arrows.
 
-Creating flowcharts will help understand your plan of attack. Before creating new code or fixing code current issues, a flowchart will make that process more clear and can save time.
+Creating `flowchart`(s) will help understand your plan of attack before creating new code or fixing code current issues. A `flowchart` will make that process more clear and can save time.
 
